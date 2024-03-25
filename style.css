@@ -1,0 +1,25 @@
+
+h1{ 
+    background-color: purple;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table,tr,th,td{
+    border: 1px solid black;
+}
+body{
+    background-color: rgba(234, 123, 234, 0.749);
+    margin-left: 50px;
+}
+p{
+    font-size: large;
+    font-weight: 200px;
+    
+    
+
+}
+h2{ margin-left: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: purple;
+    color: white;
+}
